@@ -10,7 +10,7 @@
         E um chat que funciona em tempo real usando comunicação bidirecional (websockets)
 
         Exemplo de comunicação bidirecional :
-        ![bidirecional](https://miro.medium.com/max/700/1*QJGIGa8nF1qFPbPnNvFiuQ.png)
+ ![bidirecional](https://miro.medium.com/max/700/1*QJGIGa8nF1qFPbPnNvFiuQ.png)
 ## <strong>Dependencias:</strongs> 
         .ejs - instalação: npm i ejs
         .express - instalação: npm i express 
