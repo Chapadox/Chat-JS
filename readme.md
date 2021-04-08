@@ -1,10 +1,5 @@
 ## <strong>Chat JS<strong>
-<strong>.Feito Em: <br>
-html   <br>
-css    <br>
-jquery <br>
-Node JS
-<br>
+<strong>Feito Em: Html, Css, Jquery, Node JS
 <br>
 ## <strong>Como funciona:</strong>
 E um chat que funciona em tempo real usando comunicação bidirecional (websockets)
